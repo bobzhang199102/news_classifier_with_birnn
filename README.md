@@ -1,4 +1,4 @@
-This is a News classifier with Bidirectional RNN and Bidirectional RNN with Attention
+This is a News classifier with Bidirectional RNN model and Bidirectional RNN with Attention model.
 
 Data Preparation
   * Tokenize the text.
